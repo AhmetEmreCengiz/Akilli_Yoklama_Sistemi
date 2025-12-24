@@ -40,7 +40,7 @@ Pillow (PIL): Görüntülerin arayüzde gösterilmesi.
 Projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
 
 ### 1. Gereksinimleri Yükleyin
-Proje klasöründe terminali açın ve gerekli kütüphaneleri tek komutla yükleyin:
+Terminali açın ve gerekli kütüphaneleri tek komutla yükleyin:
 Ardından Akıllı Yoklama Sistemi proje dosyasını Jupyter Notebook ile çalıştırın.
 ```bash
 pip install -r requirements.txt
