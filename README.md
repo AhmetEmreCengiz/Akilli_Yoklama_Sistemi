@@ -1,6 +1,6 @@
 # 🎓Akıllı Yoklama Sistemi
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green) ![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-orange) ![Status]
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green) ![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-orange)
 
 Bu proje, sınıf yoklama kağıtlarını tarayarak öğrencilerin katılım durumunu **Yapay Zeka ve Görüntü İşleme (Image Processing)** teknikleriyle otomatik olarak analiz eden ve sonuçları **Excel** formatında raporlayan bir masaüstü uygulamasıdır.
 
